@@ -1,0 +1,20 @@
+{
+    "name": "administrator/phpmvcframwork",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\Phpmvcframwork\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mouataz billah fachatti",
+            "email": "mouatazbillah97@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}

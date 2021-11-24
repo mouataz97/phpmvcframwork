@@ -1,12 +1,11 @@
 <?php
 
+require_once
+
 $app = new Application();
 
-$router = new Router();
-$router->get('/',function(){
+$app->router->get('/',function(){
     return 'Hello Wrold';
 });
-
-$app->userRouter($router);
 
 $app->run();

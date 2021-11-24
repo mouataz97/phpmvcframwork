@@ -10,4 +10,9 @@ class Router
     {
         $this->router - new Router();
     }
+
+    public function run()
+    {
+        $this->router->resolce();
+    }
 }

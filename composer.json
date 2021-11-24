@@ -1,10 +1,6 @@
 {
     "name": "administrator/phpmvcframwork",
-    "autoload": {
-        "psr-4": {
-            "Administrator\\Phpmvcframwork\\": "src/"
-        }
-    },
+    
     "authors": [
         {
             "name": "mouataz billah fachatti",

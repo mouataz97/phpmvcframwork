@@ -3,7 +3,7 @@
 namespace app\core;
 
 
-class Router
+class Application
 {
     public Router $router;
     public function __construct()

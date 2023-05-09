@@ -1,16 +1,15 @@
 {
     "name": "administrator/phpmvcframwork",
-    
-    "authors": [
-        {
-            "name": "mouataz billah fachatti",
-            "email": "mouatazbillah97@gmail.com"
-        }
-    ],
     "autoload": {
-        "psr-4":{
+        "psr-4": {
             "app\\": "./"
         }
     },
+    "authors": [
+        {
+            "name": "Mouataz Billah",
+            "email": "mouatazbillah97@gmail.com"
+        }
+    ],
     "require": {}
 }
